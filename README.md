@@ -25,4 +25,4 @@ Note: The notebook is written in Italian.
 ---
 
 Developed by Jennifer Bracco  
-LogiCraft Consulting – Data Analytics & Qualità (ISO 9001)
+LogiCraft Consulting – Data Analytics per Sistemi di Gestione
